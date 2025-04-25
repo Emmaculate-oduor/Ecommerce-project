@@ -64,6 +64,6 @@ The following core tables were created successfully:
 ---
 
 ## 🔗 Submission Notes
-- GitHub repository link: _[]_
+- GitHub repository link: _[https://github.com/Emmaculate-oduor/Ecommerce-project.git]_
 - ERD and SQL files are uploaded and publicly accessible.
 
